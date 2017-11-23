@@ -1,0 +1,8 @@
+.hero{
+    background-color: #52d57c;
+    color: #ffffff;
+    margin: 0;
+}
+.hero__progress-logo, .hero__description, .hero__phone{
+    width: 80vw;
+}
